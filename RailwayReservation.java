@@ -1,5 +1,4 @@
 // Synchronization to avoid double booking
-
 class RailwayReservation {
     int seats = 1;
 
