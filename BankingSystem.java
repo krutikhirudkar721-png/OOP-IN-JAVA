@@ -1,5 +1,4 @@
 // Multiple threads accessing shared balance
-
 class BankingSystem {
     int balance = 1000;
 
