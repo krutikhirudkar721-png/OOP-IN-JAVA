@@ -1,5 +1,4 @@
 // Concatenate first and last name
-
 import java.util.Scanner;
 
 class MessageFormatter {
