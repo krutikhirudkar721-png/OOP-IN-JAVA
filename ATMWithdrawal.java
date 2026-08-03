@@ -1,6 +1,5 @@
 // Throw exception if insufficient balance
 import java.util.Scanner;
-
 class ATMWithdrawal {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
