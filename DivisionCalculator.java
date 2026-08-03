@@ -1,4 +1,5 @@
 // Handle divide by zero
+
 import java.util.Scanner;
 
 class DivisionCalculator {
