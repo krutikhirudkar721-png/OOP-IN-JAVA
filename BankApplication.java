@@ -4,7 +4,6 @@ class BankApplication {
     static void process() throws Exception {
         throw new Exception("Transaction failed");
     }
-
     public static void main(String[] args) {
         try {
             process();
