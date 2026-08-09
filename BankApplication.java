@@ -1,4 +1,4 @@
-// Use throws and handle exception in main
+// Use throws and handle exception in main//
 class BankApplication {
 
     static void process() throws Exception {
