@@ -1,4 +1,4 @@
-// Create thread using Thread class and show progress
+// Create thread using Thread class and show progress //
 
 class MusicPlayer extends Thread {
     public void run() {
