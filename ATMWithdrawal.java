@@ -1,4 +1,4 @@
-// Throw exception if insufficient balance
+// Throw exception if insufficient balance//
 import java.util.Scanner;
 class ATMWithdrawal {
     public static void main(String[] args) {
