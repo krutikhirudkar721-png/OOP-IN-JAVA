@@ -1,4 +1,4 @@
-// Handle divide by zero
+// Handle divide by zero //
 
 import java.util.Scanner;
 
