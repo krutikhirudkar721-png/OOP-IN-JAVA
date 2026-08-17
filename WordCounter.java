@@ -1,7 +1,6 @@
 // Count words using StringTokenizer
 
 import java.util.*;
-
 class WordCounter {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
